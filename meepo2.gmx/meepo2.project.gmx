@@ -28,7 +28,9 @@
     <sprite>sprites\spe_victory</sprite>
     <sprite>sprites\spe_cran_night_hawk</sprite>
     <sprite>sprites\spe_home</sprite>
-    <sprite>sprites\sprite22</sprite>
+    <sprite>sprites\spe_bush</sprite>
+    <sprite>sprites\spe_cran_bullet</sprite>
+    <sprite>sprites\spe_fire</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_space</background>
