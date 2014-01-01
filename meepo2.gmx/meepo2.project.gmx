@@ -31,10 +31,15 @@
     <sprite>sprites\spe_bush</sprite>
     <sprite>sprites\spe_cran_bullet</sprite>
     <sprite>sprites\spe_fire</sprite>
+    <sprite>sprites\spe_force_feald</sprite>
+    <sprite>sprites\spe_exploshion</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_space</background>
     <background>background\background_land</background>
+    <background>background\background_sand_dunes</background>
+    <background>background\background_space_port</background>
+    <background>background\background_grass</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -47,8 +52,7 @@
     <object>objects\obj_starcannon</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\space_room</room>
-    <room>rooms\room0</room>
+    <room>rooms\room5</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
