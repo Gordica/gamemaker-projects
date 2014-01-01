@@ -33,6 +33,8 @@
     <sprite>sprites\spe_fire</sprite>
     <sprite>sprites\spe_force_feald</sprite>
     <sprite>sprites\spe_exploshion</sprite>
+    <sprite>sprites\sprite27</sprite>
+    <sprite>sprites\spe_medic</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_space</background>
