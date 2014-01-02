@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sou_space_port_music_enders_game</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spe_water_gun_full</sprite>
     <sprite>sprites\spe_rocket_damage1</sprite>
@@ -35,6 +37,17 @@
     <sprite>sprites\spe_exploshion</sprite>
     <sprite>sprites\sprite27</sprite>
     <sprite>sprites\spe_medic</sprite>
+    <sprite>sprites\spe_smart_bomb</sprite>
+    <sprite>sprites\spe__land_mine</sprite>
+    <sprite>sprites\spe_hard_wall</sprite>
+    <sprite>sprites\spe_shield_power</sprite>
+    <sprite>sprites\spe_shield_cran</sprite>
+    <sprite>sprites\spe_wood_wall</sprite>
+    <sprite>sprites\spe_spike_plant</sprite>
+    <sprite>sprites\spe_wood_wall_damaged</sprite>
+    <sprite>sprites\spe_wood_wall_damaged_2</sprite>
+    <sprite>sprites\spe_wood_wall_damaged_3</sprite>
+    <sprite>sprites\spe_wood_wall_damaged_4</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_space</background>
@@ -52,6 +65,7 @@
     <object>objects\obj_scout</object>
     <object>objects\obj_missile</object>
     <object>objects\obj_starcannon</object>
+    <object>objects\space_port_music</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room5</room>
