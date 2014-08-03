@@ -50,7 +50,10 @@
     <sprite>sprites\spe_wood_wall_damaged_4</sprite>
     <sprite>sprites\spe_rock</sprite>
     <sprite>sprites\spe_energy_path</sprite>
-    <sprite>sprites\sprite42</sprite>
+    <sprite>sprites\spe_portal</sprite>
+    <sprite>sprites\spe_void</sprite>
+    <sprite>sprites\spe_land_mine_power</sprite>
+    <sprite>sprites\foxcat_breathing</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_space</background>
@@ -72,6 +75,7 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\room5</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
